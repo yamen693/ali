@@ -113,7 +113,13 @@ body{
     font-size: 12px;
     padding: 15px;
   }
-  
+ 
+span {
+  content: "\007E";
+  color: black;
+ height: 0%;
+}
+
   
   .col-1 {width: 8.33%;}
   .col-2 {width: 16.66%;}
